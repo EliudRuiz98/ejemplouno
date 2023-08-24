@@ -32,7 +32,7 @@
             <div class="item">
                 <img src="./assets/img/slider2.jpg" alt="slider2">
                 <div class="carousel-caption">
-                    Text Slider 2
+                    Prueba1
                 </div>
             </div>
             <div class="item">
