@@ -12,6 +12,7 @@
                 <div class="contenedor-tr">
                   <a href="index.php" class="table-cell-td">Inicio</a>
                   <a href="product.php" class="table-cell-td">Productos</a>
+                  <a href="direcciones.php" class="table-cell-td">Direccion</a>
                   <?php
                       if(!$_SESSION['nombreAdmin']==""){
                           echo ' 
