@@ -10,14 +10,18 @@
     
     <section id="slider-store" class="carousel slide" data-ride="carousel" style="padding: 0;">
 
-        <!-- Indicators -->
+        <!-- Inndicadores de carrusel, estos también fueron ocultados1
         <ol class="carousel-indicators">
             <li data-target="#slider-store" data-slide-to="0" class="active"></li>
             <li data-target="#slider-store" data-slide-to="1"></li>
             <li data-target="#slider-store" data-slide-to="2"></li>
         </ol>
+         -->
 
         <!-- Wrapper for slides -->
+     <!--Eliminé el caarrusel, este es el código por si se desea agregarlo nuevamente
+     
+     
         <div class="carousel-inner" role="listbox">
             <div class="item active">
                 <img src="./assets/img/slider1.jpg" alt="slider1">
@@ -38,6 +42,8 @@
                 </div>
             </div>
         </div>
+
+     >
 
         <!-- Controls -->
         <a class="left carousel-control" href="#slider-store" role="button" data-slide="prev">
@@ -116,5 +122,10 @@
     </section>
 
     <?php include './inc/footer.php'; ?>
+
+
+
+
+
 </body>
 </html>
