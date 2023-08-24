@@ -123,7 +123,9 @@
 
     <?php include './inc/footer.php'; ?>
 
-
+<section>
+    hola estoy agregando un cambio a la interfaz
+</section>
 
 
 
