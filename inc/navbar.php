@@ -10,8 +10,8 @@
             <div class="col-xs-8">
               <div class="contenedor-tabla pull-right">
                 <div class="contenedor-tr">
-                  <a href="index.php" class="table-cell-td">Inicio</a>
-                  <a href="product.php" class="table-cell-td">Productos</a>
+                  <a href="index.php" class="table-cell-td">Home</a>
+                  <a href="product.php" class="table-cell-td">Productos1</a>
                   <a href="direcciones.php" class="table-cell-td">Direccion</a>
                   <?php
                       if(!$_SESSION['nombreAdmin']==""){
